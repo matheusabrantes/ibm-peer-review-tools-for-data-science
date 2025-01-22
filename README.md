@@ -4,7 +4,6 @@ This repository was created as a mandatory requirement for completing the IBM To
 Contents
 
     Jupyter Notebook with completed exercises
-    Solutions showcasing the use of tools and techniques covered in the course
 
 This project demonstrates practical applications of data science tools and techniques, as outlined in the IBM course curriculum.
 
